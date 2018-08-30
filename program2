@@ -1,0 +1,11 @@
+Answer 2
+#include<stdio.h>
+void main()
+{
+ char a[10];
+printf("\n enter your name:");
+scanf("%s",a);
+
+printf("%s",a);
+}
+
